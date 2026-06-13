@@ -13,4 +13,6 @@
 <footer>
 Link do Projeto:
 <p>https://eric-takeda.github.io/Conversor-de-Moedas/</p>
+API:
+<p>https://api.frankfurter.dev/v1/latest</p>
 </footer>
