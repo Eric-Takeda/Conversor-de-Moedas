@@ -12,5 +12,5 @@
 
 <footer>
 Link do Projeto:
-<p>https://eric-takeda.github.io/Mario-Jump/</p>
+<p>https://eric-takeda.github.io/Conversor-de-Moedas/</p>
 </footer>
